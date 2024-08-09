@@ -1,5 +1,5 @@
 # Portfolio_AshmaPandey
-                                           (![digital-passport](https://github.com/user-attachments/assets/488480d3-6287-4ac3-a0c6-65cc3a52f9f3)) 
+(![digital-passport](https://github.com/user-attachments/assets/488480d3-6287-4ac3-a0c6-65cc3a52f9f3)) 
 
 ## Technical and Other Skills 
 #### Programming and Data Visualization
