@@ -1,9 +1,14 @@
 # Portfolio_AshmaPandey
 
-## Education
-MS in Data Science 
-MS in Economics
-BS in Agriculture Economics 
+### Education
+# MS in Data Science @ South Dakota State University 
+- Relevent courses: Statistical Programming, Big Data Analytics, Modern Applied Statistics, Non-Parametric Statistics, Data Warehousing , R programming, Time Series Analysis, Operation Research
+
+# MS in Economics @ South Dakota State University
+- Relevant Coursework: Advanced Microeconomics, Advanced Macroeconomics, Research Methodology, Advanced Managerial Economics, Marketing Research, R programming, Econometrics
+
+# BS in Agriculture - Specialization in Agriculture Economics @ Purbanchal University
+- Relevant Coursework: Biostatistics, Research Methodology, Project Management
 
 ### Professional Experience
 Graduate Research Assistant @ South Dakota State University 
