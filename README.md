@@ -46,3 +46,5 @@
 #### Economics of Early-Season Cauliflower Production and Marketing in Dhading District of Nepal
 #### Status of agriculture insurance service business in Nepal
 #### Economic viability of hydroponic system: a case from Kathmandu valley 
+
+![EEG_Band_Discovery] (/Users/ashmapandey/Desktop/OPT\ application\ process/digital-passport.jpg) 
