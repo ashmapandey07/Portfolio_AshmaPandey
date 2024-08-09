@@ -47,4 +47,4 @@
 #### Status of agriculture insurance service business in Nepal
 #### Economic viability of hydroponic system: a case from Kathmandu valley 
 
-![EEG_Band_Discovery] (/Users/ashmapandey/Desktop/OPT\ application\ process/digital-passport.jpg) 
+![EEG_Band_Discovery] (![digital-passport](https://github.com/user-attachments/assets/488480d3-6287-4ac3-a0c6-65cc3a52f9f3)) 
