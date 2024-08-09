@@ -1,5 +1,15 @@
 # Portfolio_AshmaPandey
 
+## Technical and Other Skills 
+#### Programming and Data Visualization
+- Python, R, Julia, Stata, SPSS, MATLAB, Tableau, SQL, Weka, Power BI, SAS
+
+#### Tools
+- Microsoft Office (Word, Excel, Outlook, PowerPoint), Jypyter Notebook, MongoDB, Machine Learning, GIS
+
+#### Project Management
+- Task organization, Time management, Critical thinking, Strategic Planning, Analytical skills, Organizational skills
+
 ## Education
 #### MS in Data Science @ South Dakota State University 
 - Relevent courses: Statistical Programming, Big Data Analytics, Modern Applied Statistics, Non-Parametric Statistics, Data Warehousing , R programming, Time Series Analysis, Operation Research
@@ -32,14 +42,5 @@
 #### USDA ERS Brown Bag Seminar
 - Presented Research on “An investigation of bidders behavior in WIC infants formula rebate auctions.
 
-## Computers Technologies
-#### Programming and Data Visualization
-- Python, R, Julia, Stata, SPSS, MATLAB, Tableau, SQL, Weka, Power BI, SAS
-
-#### Tools
-- Microsoft Office (Word, Excel, Outlook, PowerPoint), Jypyter Notebook, MongoDB, Machine Learning, GIS
-
-#### Project Management
-- Task organization, Time management, Critical thinking, Strategic Planning, Analytical skills, Organizational skills
 
 
