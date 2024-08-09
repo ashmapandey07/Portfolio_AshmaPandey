@@ -1,5 +1,5 @@
 # Portfolio_AshmaPandey
-(![digital-passport](https://github.com/user-attachments/assets/488480d3-6287-4ac3-a0c6-65cc3a52f9f3)) 
+                                           (![digital-passport](https://github.com/user-attachments/assets/488480d3-6287-4ac3-a0c6-65cc3a52f9f3)) 
 
 ## Technical and Other Skills 
 #### Programming and Data Visualization
@@ -21,7 +21,7 @@
 #### BS in Agriculture - Specialization in Agriculture Economics | Purbanchal University (_December_2021_)
 - Relevant Coursework: Biostatistics, Research Methodology, Project Management
 
-## Professional Experience
+## Professional Experiences
 ** Graduate Research Assistant | South Dakota State University (_August_2022-August_2024)
 - Project Collaboration with USDA: Analyzed auction data and manufacturer rebates on the ‘WIC Infant Formula’ project using STATA, R, Python, and MS Excel.
 - Data Analysis: Applied statistical technique and data visualization tools to interpret complex data sets, resulting in actionable insights.
